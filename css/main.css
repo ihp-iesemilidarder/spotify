@@ -1,0 +1,10 @@
+table tbody tr:hover td {
+    color:rgb(68, 199, 68);
+    cursor: pointer;
+}
+.fa-ellipsis-v, .fa-volume-up{
+    opacity: 0;
+}
+table tbody tr:hover .fa-ellipsis-v,table tbody tr:hover .fa-volume-up{
+    opacity: 1;
+}

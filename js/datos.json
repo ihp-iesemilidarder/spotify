@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "titulo":"químera",
+        "artista":["Alba Reche"],
+        "album":"químera",
+        "date":"2021-01-04",
+        "time":"3:08"
+    },
+    {
+        "id":2,
+        "titulo":"Fuentes de Ortíz (Live session)",
+        "artista":["Kenia OS"],
+        "album":"Fuentes de Ortíz",
+        "date":"2021-01-04",
+        "time":"2:59"
+    },
+    {
+        "id":3,
+        "titulo":"Amorfina",
+        "artista":["Marlon"],
+        "album":"Amorfina",
+        "date":"2021-01-04",
+        "time":"2:59"
+    },
+    {
+        "id":4,
+        "titulo":"Cigarrito y Café",
+        "artista":["Jossue Alaniz","Carlos Colosio"],
+        "album":"Cigarrito y Café",
+        "date":"2021-01-04",
+        "time":"2:51"
+    },
+    {
+        "id":5,
+        "titulo":"La canción",
+        "artista":["Bad Bunny","J Balvin"],
+        "album":"La canción",
+        "date":"2021-01-04",
+        "time":"4:14"
+    },
+    {
+        "id":6,
+        "titulo":"Sonreír",
+        "artista":["KURT"],
+        "album":"En Medio De Este Ruido",
+        "date":"2021-01-04",
+        "time":"3:31"
+    },
+    {
+        "id":7,
+        "titulo":"Disparos (feat Sinsinati) - Custica",
+        "artista":["Dani Fernandez"],
+        "album":"Disparos (feat Sinsinati) - Custica",
+        "date":"2021-01-04",
+        "time":"3:08"
+    },
+    {
+        "id":8,
+        "titulo":"aura ",
+        "artista":"Alba Reche",
+        "album":"químera",
+        "date":"2021-01-04",
+        "time":"3:08"
+    }
+]
